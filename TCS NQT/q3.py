@@ -1,4 +1,4 @@
-
+# choklate
 array = []
 
 N = int(input("enter number of element: "))
