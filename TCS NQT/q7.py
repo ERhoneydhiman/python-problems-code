@@ -6,6 +6,3 @@ for i in range(len(m)):
     for j in range(len(m[i])):
 #         print(i,j)
         m[i][j] = m[j][i]
-
-        
-m
